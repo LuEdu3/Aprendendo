@@ -1,0 +1,14 @@
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.AssemblyInfoInputs.cache
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.AssemblyInfo.cs
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.exe
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.deps.json
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.runtimeconfig.json
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.pdb
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\refint\04ExercicioIMC.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.pdb
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\04ExercicioIMC\obj\Debug\net8.0\ref\04ExercicioIMC.dll

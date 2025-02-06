@@ -1,0 +1,14 @@
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.exe
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.deps.json
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.runtimeconfig.json
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.pdb
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.AssemblyInfoInputs.cache
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.AssemblyInfo.cs
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\refint\03Exercicio.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.pdb
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\03Exercicio\obj\Debug\net8.0\ref\03Exercicio.dll

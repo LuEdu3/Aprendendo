@@ -1,0 +1,14 @@
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\bin\Debug\net8.0\Aprendendo-objetos.exe
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\bin\Debug\net8.0\Aprendendo-objetos.deps.json
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\bin\Debug\net8.0\Aprendendo-objetos.runtimeconfig.json
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\bin\Debug\net8.0\Aprendendo-objetos.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\bin\Debug\net8.0\Aprendendo-objetos.pdb
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\Aprendendo-objetos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\Aprendendo-objetos.AssemblyInfoInputs.cache
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\Aprendendo-objetos.AssemblyInfo.cs
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\Aprendendo-objetos.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\Aprendendo-objetos.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\refint\Aprendendo-objetos.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\Aprendendo-objetos.pdb
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\Aprendendo-objetos.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\obj\Debug\net8.0\ref\Aprendendo-objetos.dll

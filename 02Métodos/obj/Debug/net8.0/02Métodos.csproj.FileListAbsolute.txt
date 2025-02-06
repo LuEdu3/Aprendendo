@@ -1,0 +1,14 @@
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\bin\Debug\net8.0\02Métodos.exe
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\bin\Debug\net8.0\02Métodos.deps.json
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\bin\Debug\net8.0\02Métodos.runtimeconfig.json
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\bin\Debug\net8.0\02Métodos.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\bin\Debug\net8.0\02Métodos.pdb
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\02Métodos.AssemblyInfoInputs.cache
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\02Métodos.AssemblyInfo.cs
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\02Métodos.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\02Métodos.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\refint\02Métodos.dll
+c:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\02Métodos.pdb
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\02Métodos.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documents\LuizEduardo\Aprendendo\Aprendendo-objetos\02Métodos\obj\Debug\net8.0\ref\02Métodos.dll
